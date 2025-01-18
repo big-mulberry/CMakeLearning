@@ -1,0 +1,6 @@
+
+class XLog
+{
+  public:
+    XLog();
+};
